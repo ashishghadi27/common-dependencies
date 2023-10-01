@@ -12,5 +12,4 @@ public class MonthlyPlanResponseVO {
     private Date startDate;
     private Date endDate;
     private List<MonthlyDisplayVO> monthlyDisplayVOList;
-
 }

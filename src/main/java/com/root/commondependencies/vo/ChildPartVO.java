@@ -13,5 +13,6 @@ public class ChildPartVO implements Serializable {
 
     private String childPartName;
     private String childPartSeries;
+    private int childPartQuantity;
     private Integer childPartOpeningStock;
 }

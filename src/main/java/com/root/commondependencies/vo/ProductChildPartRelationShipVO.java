@@ -5,7 +5,7 @@ import lombok.NoArgsConstructor;
 
 @Data
 @NoArgsConstructor
-public class ProductChildPartVO {
+public class ProductChildPartRelationShipVO {
     private Long id;
     private Long productId;
     private Long childPartId;
